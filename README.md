@@ -1,3 +1,5 @@
+<img src="https://id-live-01.slatic.net/p/230635e46b0fe7fed0c1ea3988b13cb4.jpg" width="30%">
+
 # Tentang
 
 Bot untuk flash sale poco m3 di lazada.
