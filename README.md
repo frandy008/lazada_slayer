@@ -2,9 +2,8 @@
 
 # Tentang
 
-Bot untuk flash sale poco m3 di lazada.
-[Penjualan Perdana 26 Jan 10:00] Poco M3 (6GB + 128GB) Snapdragon 662 48MP AI Triple Kamera Layar 6.53” FHD+ Layar Dot Drop 6000mAh
-Hanya berlaku untuk produk di atas atau official store Xiaomi
+- Bot untuk flash sale poco m3 di lazada.
+- Hanya berlaku untuk produk di atas atau official store Xiaomi
 
 # Persyaratan
 - Wajib sudah login di lazada
