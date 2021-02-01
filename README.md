@@ -20,6 +20,7 @@ https://www.lazada.co.id/products/penjualan-perdana-26-jan-1000-poco-m3-6gb-128g
 https://www.lazada.co.id/products/penjualan-selanjutnya-29-jan-1000-poco-m3-4gb-64gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4649544474-s8182276279.html
 - Pastikan script runner pro nya telah berjalan.
 - Jika masih Coming Soon makan script akan melakukan refresh secara otomatis.
+- Video nya bisa di lihat di : https://www.youtube.com/watch?v=huZ_U37EEl0
 
 # Kontak
 Instagram : https://www.instagram.com/frandy008
