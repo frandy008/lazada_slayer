@@ -1,3 +1,6 @@
+# Fix Bug
+- Refresh yang terlalu lama di beberapa komputer dengan spek rendah.
+
 <img src="https://id-live-01.slatic.net/p/230635e46b0fe7fed0c1ea3988b13cb4.jpg" width="50%">
 
 # Tentang
