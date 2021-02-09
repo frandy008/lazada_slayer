@@ -2,6 +2,7 @@
 - Refresh yang terlalu lama di beberapa komputer dengan spek rendah.
 
 <img src="https://id-live-01.slatic.net/p/230635e46b0fe7fed0c1ea3988b13cb4.jpg" width="50%">
+<img src="https://id-test-11.slatic.net/shop/55a9976288a56acbd31da64cc7f738fc.jpeg" width="50%">
 
 # Tentang
 
@@ -21,6 +22,8 @@ https://chrome.google.com/webstore/detail/script-runner-pro/cofhgpcbaidjkjfbfglf
 https://www.lazada.co.id/products/penjualan-perdana-26-jan-1000-poco-m3-6gb-128gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4648390332-s8177270629.html?
 - Untuk versi 4/64GB:
 https://www.lazada.co.id/products/penjualan-selanjutnya-29-jan-1000-poco-m3-4gb-64gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4649544474-s8182276279.html
+- Untuk Redmi 9a : 
+https://www.lazada.co.id/products/penjualan-berikutnya-10-feb-1000-max-1-unit-per-order-xiaomi-redmi-9a-2gb-32gb-muklay-version-i2388942915-s4493020075.html
 - Pastikan script runner pro nya telah berjalan.
 - Jika masih Coming Soon makan script akan melakukan refresh secara otomatis.
 - Video nya bisa di lihat di : https://www.youtube.com/watch?v=huZ_U37EEl0
