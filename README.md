@@ -1,5 +1,6 @@
 # Fix Bug
 - Refresh yang terlalu lama di beberapa komputer dengan spek rendah.
+- Penggunaan untuk FS Redmi9a harus menunggu waktu tepat nya.
 
 # Produk
 - Poco M3
