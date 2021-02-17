@@ -36,6 +36,11 @@ https://www.lazada.co.id/products/penjualan-berikutnya-10-feb-1000-max-1-unit-pe
 # Kontak
 Instagram : https://www.instagram.com/frandy008
 
+# Buy Me A Coffee
+- DANA
+<img src="https://1.bp.blogspot.com/-PU-UEtHKmOQ/YCzLcxNkQdI/AAAAAAAAFt0/CVkQWDVcjFUJ2FHUT7JOGckiXkSTwVegQCLcBGAsYHQ/s16000/Screenshot_2021-02-17-15-48-55-683_id.dana.jpg" width="50%">
+- OVO
+<img src="https://1.bp.blogspot.com/-XkxZQJunCs8/YCzLc1dWW8I/AAAAAAAAFtw/T7qaXud4yOsnSck9ZctW57vzi7QVUMDuACLcBGAsYHQ/s16000/Screenshot_2021-02-17-15-48-01-001_ovo.id.jpg" width="50%">
 
 https://www.google.com/search?q=bot+lazada&oq=bot+lazada&aqs=chrome..69i57j0i22i30l2j0i22i30i395l3j69i60l2.3023j1j7&sourceid=chrome&ie=UTF-8
 Bot Flash Sale Lazada Terbaru
