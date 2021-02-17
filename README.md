@@ -39,6 +39,7 @@ Instagram : https://www.instagram.com/frandy008
 # Buy Me A Coffee
 - DANA
 <img src="https://1.bp.blogspot.com/-PU-UEtHKmOQ/YCzLcxNkQdI/AAAAAAAAFt0/CVkQWDVcjFUJ2FHUT7JOGckiXkSTwVegQCLcBGAsYHQ/s16000/Screenshot_2021-02-17-15-48-55-683_id.dana.jpg" width="10%">
+
 - OVO
 <img src="https://1.bp.blogspot.com/-XkxZQJunCs8/YCzLc1dWW8I/AAAAAAAAFtw/T7qaXud4yOsnSck9ZctW57vzi7QVUMDuACLcBGAsYHQ/s16000/Screenshot_2021-02-17-15-48-01-001_ovo.id.jpg" width="10%">
 
