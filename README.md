@@ -33,6 +33,9 @@ https://www.lazada.co.id/products/penjualan-berikutnya-10-feb-1000-max-1-unit-pe
 - Jika masih Coming Soon makan script akan melakukan refresh secara otomatis.
 - Video nya bisa di lihat di : https://www.youtube.com/watch?v=huZ_U37EEl0
 
+# Penggunaan 2
+- Untuk redmi 9a harap mulai saat jam FS nya sudah mulai (Jangan start bot lebih awal)
+
 # Kontak
 Instagram : https://www.instagram.com/frandy008
 
