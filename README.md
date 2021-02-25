@@ -1,6 +1,5 @@
-# Fix Bug [Updated 17-02-2021]
-- Refresh yang terlalu lama di beberapa komputer dengan spek rendah.
-- Penggunaan untuk FS Redmi9a harus menunggu waktu tepat nya.
+# Fix Bug [Updated 25-02-2021]
+- perbaikan checkout
 
 # Produk
 - Poco M3
