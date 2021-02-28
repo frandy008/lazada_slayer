@@ -36,7 +36,7 @@ https://www.lazada.co.id/products/penjualan-berikutnya-10-feb-1000-max-1-unit-pe
 - Untuk redmi 9a harap mulai saat jam FS nya sudah mulai (Jangan start bot lebih awal)
 
 # Kontak
-Instagram : https://www.instagram.com/im_frandy_
+Instagram : https://www.instagram.com/im_frandy_/
 
 # Buy Me A Coffee
 - DANA
