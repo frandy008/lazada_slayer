@@ -1,5 +1,5 @@
-# Fix Bug [Updated 25-02-2021]
-- perbaikan checkout
+# Fix Bug [Updated 28-02-2021]
+- perbaikan
 
 # Produk
 - Poco M3
@@ -23,9 +23,9 @@ https://chrome.google.com/webstore/detail/script-runner-pro/cofhgpcbaidjkjfbfglf
 - Copykan script bot nya ke "script runner pro"
 - Juka persiapan sudah selesai, tinggal buka link nya.
 - Untuk versi 6/128GB :
-https://www.lazada.co.id/products/penjualan-perdana-26-jan-1000-poco-m3-6gb-128gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4648390332-s8177270629.html?
+https://www.lazada.co.id/products/penjualan-selanjutnya-2-mar-1000-max-1-unit-per-order-poco-m3-6gb-128gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4649530757-s8182268313.html
 - Untuk versi 4/64GB:
-https://www.lazada.co.id/products/penjualan-selanjutnya-29-jan-1000-poco-m3-4gb-64gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4649544474-s8182276279.html
+https://www.lazada.co.id/products/penjualan-selanjutnya-2-mar-1000-max-1-unit-per-order-poco-m3-4gb-64gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4649544474-s8182276281.html
 - Untuk Redmi 9a : 
 https://www.lazada.co.id/products/penjualan-berikutnya-10-feb-1000-max-1-unit-per-order-xiaomi-redmi-9a-2gb-32gb-muklay-version-i2388942915-s4493020075.html
 - Pastikan script runner pro nya telah berjalan.
@@ -36,7 +36,7 @@ https://www.lazada.co.id/products/penjualan-berikutnya-10-feb-1000-max-1-unit-pe
 - Untuk redmi 9a harap mulai saat jam FS nya sudah mulai (Jangan start bot lebih awal)
 
 # Kontak
-Instagram : https://www.instagram.com/frandy008
+Instagram : https://www.instagram.com/im_frandy_
 
 # Buy Me A Coffee
 - DANA
