@@ -23,9 +23,9 @@ https://chrome.google.com/webstore/detail/script-runner-pro/cofhgpcbaidjkjfbfglf
 - Copykan script bot nya ke "script runner pro"
 - Juka persiapan sudah selesai, tinggal buka link nya.
 - Untuk versi 6/128GB :
-https://www.lazada.co.id/products/penjualan-selanjutnya-9-mar-1000-max-1-unit-per-order-poco-m3-6gb-128gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4649530757-s8182268312.html?
+https://www.lazada.co.id/products/penjualan-selanjutnya-23-mar-1000-max-1-unit-per-order-poco-m3-6gb-128gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4649530757-s8182268311.html?
 - Untuk versi 4/64GB:
-https://www.lazada.co.id/products/penjualan-selanjutnya-9-mar-1000-max-1-unit-per-order-poco-m3-4gb-64gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4649544474-s8182276279.html
+https://www.lazada.co.id/products/penjualan-selanjutnya-23-mar-1000-max-1-unit-per-order-poco-m3-4gb-64gb-snapdragon-662-48mp-ai-triple-kamera-layar-653-fhd-layar-dot-drop-6000mah-i4649544474-s8182276279.html
 - Untuk Redmi 9a : 
 https://www.lazada.co.id/products/penjualan-berikutnya-10-feb-1000-max-1-unit-per-order-xiaomi-redmi-9a-2gb-32gb-muklay-version-i2388942915-s4493020075.html
 - Pastikan script runner pro nya telah berjalan.
