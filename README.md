@@ -29,8 +29,9 @@ https://www.lazada.co.id/products/penjualan-berikutnya-10-feb-1000-max-1-unit-pe
 - Jika masih Coming Soon makan script akan melakukan refresh secara otomatis.
 - Video nya bisa di lihat di : https://www.youtube.com/watch?v=huZ_U37EEl0
 
-# Penggunaan 2
-- Untuk redmi 9a harap mulai saat jam FS nya sudah mulai (Jangan start bot lebih awal)
+# Link lain nya
+- Xiaomi redmi note 10 4/64 : 
+https://www.lazada.co.id/products/xiaomi-redmi-note-10-4gb64gb-amoled-643-fhd-dual-speaker-48mp-quad-kamera-snapdragon-678-baterai-5000mah-fast-charging-33w-i4981266300-s9245138301.html
 
 # Kontak
 Instagram : https://www.instagram.com/im_frandy_/
