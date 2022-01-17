@@ -38,3 +38,5 @@ Instagram : https://www.instagram.com/im_frandy_/
 
 https://www.google.com/search?q=bot+lazada&oq=bot+lazada&aqs=chrome..69i57j0i22i30l2j0i22i30i395l3j69i60l2.3023j1j7&sourceid=chrome&ie=UTF-8
 Bot Flash Sale Lazada Terbaru
+
+Oke
